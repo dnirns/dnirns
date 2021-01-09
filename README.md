@@ -1,6 +1,5 @@
 ### Hi there 👋
-
-[![My Github Stats](https://github-readme-stats.vercel.app/api?username=dnirns)](https://github.com/anuraghazra/github-readme-stats)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=dnirns&show_icons=true&theme=radical)
 
 <!--
 **dnirns/dnirns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
