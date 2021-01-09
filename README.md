@@ -1,4 +1,4 @@
-### I’m Dan, a born-again coding convert with a focus on front-end web development.
+### I’m Dan, a coding convert with a focus on front-end web development.
 
 - 🔭 I’m currently working on:
 
