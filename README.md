@@ -12,7 +12,7 @@
 
 - 📫 How to reach me:
 
-	- Twitter @dnirns or email danielirons@gmail.com
+	- Twitter @dnirns or email danielirons@protonmail.com
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=dnirns&show_icons=true&theme=nord&count_private=true)
 
