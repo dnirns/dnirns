@@ -1,13 +1,12 @@
 ### I’m Dan, a coding convert with a focus on front-end web development.
 
 - 🔭 I’m currently working on:
-
-	- Developing a React Native game.
-	- A porfolio and e-commerce website for a fashion brand.
+	- An on-going Spotify music visualiser app. (work in progress here: https://audiolize.herokuapp.com/).
+	- A multiplayer Asteroids style game with Pixi.js and React.
 	
 - 🌱 I’m currently learning: 
 
-	- React Native.
+	- TDD with Testing Library / Jest.
 	- TypeScript.
 
 - 📫 How to reach me:
